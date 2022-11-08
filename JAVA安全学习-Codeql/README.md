@@ -25,3 +25,24 @@
 5、Codeql能挖掘到log4j吗？
 
 6、利用Codeql分析cc链
+
+
+# 看过的文章（`就按照自己的顺序叭`）
+
+[CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
+
+[CodeQL从0到1（内附Shiro检测demo）](https://www.anquanke.com/post/id/255721#h3-11)
+
+[codeQL入门](http://me.xxf.world/post/codeql-huan-jing-da-jian/#0x02%E7%BC%96%E5%86%99%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5)（同时也看了这些文章：[CodeQL学习——导航调用图](https://www.cnblogs.com/goodhacker/p/14752396.html)）（未解决问题：codeql的XSS库原理）（`为了Codeql分析javaseccode`）（很迷糊）
+
+[CodeQL学习笔记(一)](https://fynch3r.github.io/CodeQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%B8%80/)（这里其实如果初学非常推荐看fynch3r文章，很系统得总结了）（总共4篇）(第一篇介绍codeql+环境搭建、第二篇基础语法（超详细）、第四篇)
+
+[CodeQL上手笔记](https://www.wangan.com/p/7fygf3002b70f418)
+
+[利用CodeQL分析并挖掘Log4j漏洞](https://mp.weixin.qq.com/s/JYco8DysQNszMohH6zJEGw)
+
+[CodeQL能找到log4shell(CVE-2021-44228)漏洞吗？](https://tttang.com/archive/1570/)
+
+[使用codeql自动挖掘Java反序列化gadget](https://tttang.com/archive/1511/)
+
+[使用CodeQL分析CTF题目](
