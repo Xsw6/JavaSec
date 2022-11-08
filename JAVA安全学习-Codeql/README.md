@@ -45,4 +45,4 @@
 
 [使用codeql自动挖掘Java反序列化gadget](https://tttang.com/archive/1511/)
 
-[使用CodeQL分析CTF题目](
+[使用CodeQL分析CTF题目](https://zhuanlan.zhihu.com/p/534373918)
