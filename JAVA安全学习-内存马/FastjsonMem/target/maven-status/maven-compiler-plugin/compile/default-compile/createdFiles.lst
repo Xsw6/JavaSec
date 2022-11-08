@@ -1,0 +1,4 @@
+agentmain\Agent.class
+com\example\fastjsonmem\FastjsonMemApplication.class
+agentmain\DefineTransformer.class
+com\example\fastjsonmem\Login.class

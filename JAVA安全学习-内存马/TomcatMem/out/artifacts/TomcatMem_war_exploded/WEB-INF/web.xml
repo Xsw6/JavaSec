@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+
+             <filter>
+                 <filter-name>FilterMem</filter-name>
+                 <filter-class>filter.FilterMem</filter-class>
+             </filter>
+
+             <filter-mapping>
+                 <filter-name>FilterMem</filter-name>
+                 <url-pattern>/filter</url-pattern>
+             </filter-mapping>
+
+
+             <listener>
+                     <listener-class>listener.ListenerMem</listener-class>
+                 </listener>
+
+       <servlet>
+           <servlet-name>ServletMem</servlet-name> <!-- servlet 的名字 -->
+           <servlet-class>servlet.ServletMem</servlet-class>  <!-- servlet类的全类名 -->
+       </servlet>
+
+       <servlet-mapping>
+           <servlet-name>ServletMem</servlet-name>   <!-- servlet 的名字 -->
+           <url-pattern>/servlet</url-pattern>  <!-- 访问servlet的路径 -->
+       </servlet-mapping>
+</web-app>
