@@ -3,7 +3,7 @@
 为什么要学这个！
 `有的题目需要直接发送流数据`
 
-## 实现
+## 实现第一种
 
 ```java
     public static void doPOST(byte[] obj) throws Exception{
@@ -62,5 +62,37 @@ public class HessianUtil {
     }
 
 }
+```
+
+## 实现第二种
+
+```java
+    public static void post(byte[] b) throws Exception{
+        URL url=new URL("http://127.0.0.1:8090");
+        HttpURLConnection con = (HttpURLConnection) url.openConnection();
+        con.setRequestMethod("POST");
+        con.setDoOutput(true);
+        try(OutputStream os = con.getOutputStream()) {
+            os.write(b);
+        }
+
+
+        BufferedReader in = new BufferedReader(
+                new InputStreamReader(con.getInputStream()));
+        String inputLine;
+        StringBuffer content = new StringBuffer();
+        while ((inputLine = in.readLine()) != null) {
+            content.append(inputLine);
+        }
+        in.close();
+
+        System.out.println(content.toString());
+    }
+```
+
+## 实现第三种
+
+```cmd
+ curl -v http://127.0.0.1:8090 --data-binary '恶意的反序列化文件'
 ```
 
