@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: javaagent.HelloWorld
+Class-Path: javassist-3.25.0-GA.jar
+
