@@ -127,7 +127,7 @@ public class AgentDemo {
 
 ### 总结
 
-如何在实战中利用？(`首先要上传个文件.....也就是自己的恶意类Agent jar包`)
+如何在实战中利用？(`首先要上传个文件.....也就是自己的恶意类Agent jar包,同时也需要知道想要修改的包的类名（这个条件容易满足）`)
 实战中我们只需要一个能加载此类的方法（多数都是利用`TemplatesImpl`）
 https://y4er.com/posts/javaagent-tomcat-memshell/#%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%B3%A8%E5%85%A5
 
