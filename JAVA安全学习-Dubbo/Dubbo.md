@@ -1,6 +1,10 @@
 # Dubbo 
 
 ## CVE-2019-17564
+### 影响范围
+2.7.0 <= Apache Dubbo <= 2.7.4
+2.6.0 <= Apache Dubbo <= 2.6.7
+Apache Dubbo = 2.5.x
 
 我反反复复搭建环境....
 最后是这样成功的。
