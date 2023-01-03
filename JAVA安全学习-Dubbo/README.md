@@ -5,3 +5,5 @@
 2022/12/31 [CVE-2019-17564](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Dubbo/Dubbo.md)(Http协议)
 
 2023/1/1 [CVE-2020-1948](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Dubbo/Dubbo%20%EF%BC%88CVE-2020-1948%EF%BC%89.md)（RPC）
+
+2023/1/3 [CVE-2021-30179](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Dubbo/Dubbo%20CVE-2021-30179.md)
