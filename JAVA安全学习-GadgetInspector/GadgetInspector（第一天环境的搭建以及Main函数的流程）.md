@@ -26,7 +26,7 @@ https://github.com/JackOfMostTrades/gadgetinspector
 
 ##### 参数的解释
 
-**--config 可运行指定的链子作者这里写的是所有的链子都为一个名字**
+**--config 可运行指定的链子**
 **--resume 将不会删除已经读取的一些相应文件，提高效率**
 
 2、读取jar包到临时文件（并且jvm程序结束后会将其删除）
