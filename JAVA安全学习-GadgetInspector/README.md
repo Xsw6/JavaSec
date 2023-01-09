@@ -13,3 +13,4 @@
 
 [GadgetInspector源码分析](https://fynch3r.github.io/GadgetInspector%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
+[Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
