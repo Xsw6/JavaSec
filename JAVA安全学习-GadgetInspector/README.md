@@ -2,7 +2,7 @@
 
 [环境搭建以及主函数流程的分析](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-GadgetInspector/GadgetInspector%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%8E%AF%E5%A2%83%E7%9A%84%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8AMain%E5%87%BD%E6%95%B0%E7%9A%84%E6%B5%81%E7%A8%8B%EF%BC%89.md)
 
-本来记录了一点学习过程...但是发现前人的路已经铺的很好了。（GI我太难理解了...）
+
 
 ## 参考文章
 上手前零零散散的看了许多文章...但是效果不是很好，也很难完整的看完一整篇文章（理解起来太困难）
