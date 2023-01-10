@@ -2,7 +2,6 @@
 
 [环境搭建以及主函数流程的分析](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-GadgetInspector/GadgetInspector%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%8E%AF%E5%A2%83%E7%9A%84%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8AMain%E5%87%BD%E6%95%B0%E7%9A%84%E6%B5%81%E7%A8%8B%EF%BC%89.md)
 
-再后面继续学习中发现真的没有太大必要继续做笔记了...可能后面就是记录写一些相关调用链。不仅仅局限于那3条链子。
 
 ## 参考文章
 上手前零零散散的看了许多文章...但是效果不是很好，也很难完整的看完一整篇文章（理解起来太困难）
