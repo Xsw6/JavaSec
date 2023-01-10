@@ -9,8 +9,8 @@
 
 [高效挖掘反序列化漏洞——GadgetInspector改造](https://su18.org/post/gadgetor/)
 
-[java反序列化利用链自动挖掘工具gadgetinspector源码浅析](https://xz.aliyun.com/t/7058)
+[java反序列化利用链自动挖掘工具gadgetinspector源码浅析](https://xz.aliyun.com/t/7058)（ASM流程分析和整体流程分析）
 
 [GadgetInspector源码分析](https://fynch3r.github.io/GadgetInspector%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
-[Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
+[Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/) （偏向于整个流程大体的分析+算法）
