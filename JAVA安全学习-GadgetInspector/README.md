@@ -4,7 +4,7 @@
 
 前人铺路铺的真的太好了...记录也是重复别人的话（而且并没有别人理解的深刻）
 
-[学习GI碰到的第一个难题](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-GadgetInspector/%E5%AD%A6%E4%B9%A0GI%E7%A2%B0%E5%88%B0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%9A%BE%E9%A2%98.md)(污点分析的局限性)
+[学习GI碰到的第一个难题](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-GadgetInspector/%E5%AD%A6%E4%B9%A0GI%E7%A2%B0%E5%88%B0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%9A%BE%E9%A2%98.md)(污点分析的局限性)(Demojar再文件中)
 
 ## 参考文章
 上手前零零散散的看了许多文章...但是效果不是很好，也很难完整的看完一整篇文章（理解起来太困难）
