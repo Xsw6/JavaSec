@@ -19,6 +19,7 @@
 
 2023/1/20 [CVE-2017-3248](利用JRMP 进行绕过)（碎碎念 到这里已经有两种办法进行绕过resolveClass 1、非禁用类2、JRMP）[这里就直接上链接了https://tttang.com/archive/1785/#toc_t3jrmp]
 
+2023/1/26 [CVE-2018-3191](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Weblogic/CVE-2018-3191.md)(JNDI攻击)
 
 ## 读过比较好的关于Weblogic得文章
 
