@@ -21,6 +21,8 @@
 
 2023/1/26 [CVE-2018-3191](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Weblogic/CVE-2018-3191.md)(JNDI攻击)
 
+2023/1/26 [CVE-2020-2551](https://xz.aliyun.com/t/7422#toc-8)(这里碰到许多问题 iiop得流程中间流程看不懂，但是从poc以及网上得阅读文章来看，感觉很类似rmi将恶意对象放入注册端，weblogic又从注册端反序列化，利用手法也是JNDI也并不是协议得问题)
+
 ## 读过比较好的关于Weblogic得文章
 
 2023/1/26 [判断Weblogic详细版本号的方法总结](https://mp.weixin.qq.com/s/z6q1sBYcHYgzvak98QQmeA)[用T3请求头、相关漏洞、特殊路径]
