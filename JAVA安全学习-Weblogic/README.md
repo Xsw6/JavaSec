@@ -18,3 +18,8 @@
 2023/1/20 [CVE-2022-2555](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Weblogic/CVE-2020-2555.md)[仔细寻找其实会有很多另类方法 大都都是类似CC链]
 
 2023/1/20 [CVE-2017-3248](利用JRMP 进行绕过)（碎碎念 到这里已经有两种办法进行绕过resolveClass 1、非禁用类2、JRMP）[这里就直接上链接了https://tttang.com/archive/1785/#toc_t3jrmp]
+
+
+## 读过比较好的关于Weblogic得文章
+
+2023/1/26 [判断Weblogic详细版本号的方法总结](https://mp.weixin.qq.com/s/z6q1sBYcHYgzvak98QQmeA)[用T3请求头、相关漏洞、特殊路径]
