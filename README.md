@@ -15,4 +15,5 @@
 2023/1/30
 
 [Weblogic如何识别T3、IIOP、HTTP](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Weblogic/Weblogic%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%ABT3%E3%80%81IIOP%E3%80%81HTTP.md)
+
 [Java Zip Slip漏洞案例分析及实战挖掘](https://xz.aliyun.com/t/12081#toc-1)(最后一个漏洞，可以通过./../的形式绕过)
