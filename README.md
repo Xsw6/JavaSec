@@ -17,3 +17,5 @@
 [Weblogic如何识别T3、IIOP、HTTP](https://github.com/Xsw6/JavaSec/blob/main/JAVA%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0-Weblogic/Weblogic%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%ABT3%E3%80%81IIOP%E3%80%81HTTP.md)
 
 [Java Zip Slip漏洞案例分析及实战挖掘](https://xz.aliyun.com/t/12081#toc-1)(最后一个漏洞，可以通过./../的形式绕过)
+
+2023/2/1 [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/) (感觉实战中可行的应该是查看classloader加载、对应class是否存在、恶意代码，主要都是利用Java Agent获取到所有加载到内存中的class然后进行一系列的判断)
