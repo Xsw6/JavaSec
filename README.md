@@ -20,4 +20,4 @@
 
 2023/2/1 [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/) (感觉实战中可行的应该是查看classloader加载、对应class是否存在、恶意代码，主要都是利用Java Agent获取到所有加载到内存中的class然后进行一系列的判断)
 
-2023/2/2 [西湖论剑比赛] 签到Misc+WEBJAVA(考点Fastjson+toString触发方法)
+2023/2/2 [西湖论剑比赛] 签到Misc+WEBJAVA(考点Fastjson+toString触发方法) 晚上学习了一下nginx反向代理和负载均衡在weblogic中的影响
