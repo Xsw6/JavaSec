@@ -24,6 +24,6 @@
 
 一眨眼就过去了20天了，先是没有好工作的机会（迷茫）。后跟女朋友出去散散心，回来又准备考试...
 
-2023/2/21 
+2023/2/21 [对IO重新学习了一下](https://www.bilibili.com/video/BV1n3411Q7gi?p=44&vd_source=ffa29603994e597f1f8a2562b25bcd08)
 
-[对IO重新学习了一下](https://www.bilibili.com/video/BV1n3411Q7gi?p=44&vd_source=ffa29603994e597f1f8a2562b25bcd08)
+2023/2/23 可能要暂时说再见了....考研
